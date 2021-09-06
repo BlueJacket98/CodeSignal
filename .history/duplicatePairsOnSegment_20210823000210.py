@@ -1,5 +1,3 @@
-# https://leetcode.com/discuss/interview-question/1381710/Uber-or-OA-or-2021-or-Code-Signal
-
 def duplicatePairsOnSegment(numbers, k):
     n = len(numbers)
     i, j = 0, 0

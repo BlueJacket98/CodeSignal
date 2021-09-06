@@ -1,5 +1,3 @@
-# 做法可参考 LeetCode 1027
-
 def maxArithmeticLength(a: list, b: list) -> int:
     nums = a + b
     nums.sort()

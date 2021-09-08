@@ -1,5 +1,5 @@
 # bouncingDiagonals
-# movingDiagonally
+
 def matrixBounce(mat):
     elemSum = []    #List[List[]]
     n = len(mat)

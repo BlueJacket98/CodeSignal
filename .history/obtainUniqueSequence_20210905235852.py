@@ -1,6 +1,6 @@
 # 945. Minimum Increment to Make Array Unique
 class Solution:
-    def obtainUniqueSequence(self, nums):
+    def obtainUniqueSequence(self, nums]):
         nums.sort()
         cnt = 0
         for i in range(1, len(nums)):
